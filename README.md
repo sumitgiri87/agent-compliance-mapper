@@ -249,6 +249,8 @@ See [Current Status](#8-current-status) below.
 - EU Artificial Intelligence Act (Regulation 2024/1689) — Articles 9-15. European Parliament, August 2024.
 - NIST AI Risk Management Framework (AI RMF 1.0, January 2023). National Institute of Standards and Technology.
 - NIST SP 800-53 Rev 5 — Security and Privacy Controls for Information Systems.
+- Raza, S., Sapkota, R., Karkee, M., and Emmanouilidis, C. (2025). *TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems.* arXiv:2506.04133. Vector Institute, Toronto / Cornell University. — Regulatory framework mapping across EU AI Act, NIST AI RMF, and ISO 42001; enterprise compliance vocabulary source for this tool.
+- Narajala, V.S. and Narayan, O. (2025). *Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents.* arXiv:2504.19956. Amazon Web Services. — ATFAA threat taxonomy providing the threat-to-requirement mapping logic underpinning the gap analysis output.
 
 ---
 
