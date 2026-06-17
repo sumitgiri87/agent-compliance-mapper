@@ -7,7 +7,7 @@
 
 > Give it a LangChain agent config. Get back a regulatory gap report mapped to OSFI E-23, EU AI Act, and NIST AI RMF — in under a minute.
 
-> **Part of the [agentic-ai-security-audit-framework](https://github.com/sumitgiri/agentic-ai-security-audit-framework) — a structured methodology for auditing enterprise agentic AI deployments.**
+> **Part of the [agentic-ai-security-audit-framework](https://github.com/sumitgiri87/agentic-ai-security-audit-framework) — a structured methodology for auditing enterprise agentic AI deployments.**
 
 ---
 
@@ -197,7 +197,7 @@ Cannot assess from config: 13 (28%)
 ## 6. Installation
 
 ```bash
-git clone https://github.com/sumitgiri/agent-compliance-mapper
+git clone https://github.com/sumitgiri87/agent-compliance-mapper
 cd agent-compliance-mapper
 pip install -r requirements.txt
 ```
@@ -236,9 +236,9 @@ See [Current Status](#8-current-status) below.
 
 | Repository | Description |
 |---|---|
-| [agentic-ai-security-audit-framework](https://github.com/sumitgiri/agentic-ai-security-audit-framework) | Flagship repo — full audit methodology, compliance mapper, evidence templates |
-| [agentic-rag-security-lab](https://github.com/sumitgiri/agentic-rag-security-lab) | Vulnerable-by-design RAG pipeline for attack research |
-| [llm-audit-logger](https://github.com/sumitgiri/llm-audit-logger) | Drop-in middleware for structured agent action logging |
+| [agentic-ai-security-audit-framework](https://github.com/sumitgiri87/agentic-ai-security-audit-framework) | Flagship repo — full audit methodology, compliance mapper, evidence templates |
+| [agentic-rag-security-lab](https://github.com/sumitgiri87/agentic-rag-security-lab) | Vulnerable-by-design RAG pipeline for attack research |
+| [llm-audit-logger](https://github.com/sumitgiri87/llm-audit-logger) | Drop-in middleware for structured agent action logging |
 | agent-compliance-mapper | **This repo** |
 
 ---
@@ -256,13 +256,13 @@ See [Current Status](#8-current-status) below.
 
 ## 11. Author
 
-**Sumit Giri**  
-Security Engineer · AI Red Teamer · PhD Mathematics (Cryptography)  
+**Sumit Giri, PhD**  
+AI Lead at Northwright — building secure agentic AI systems.  
 Toronto, Ontario, Canada
 
-AI red teaming at Mindrift. Cybersecurity consulting at CyStack. Building an independent AI agent security audit practice for Canadian regulated enterprises.
+LLM Security · Adversarial ML · Cryptography.
 
-[LinkedIn](https://linkedin.com/in/sumitgiri) · [GitHub](https://github.com/sumitgiri)
+[LinkedIn](https://linkedin.com/in/sumitgiri) · [GitHub](https://github.com/sumitgiri87)
 
 ---
 
